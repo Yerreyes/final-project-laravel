@@ -9,7 +9,7 @@ The solution was built using Laravel 10, PHP, PostgreSQL, Blade and Skote templa
 
 ## Contents
 
-- 📄 [Final Project Report (PDF)](./final-project-report.pdf) For a detailed overview of the development stages, including diagnosis, requirements, testing plan, use cases, database design, prototypes, and more, please refer to the PDF starting from page 150.
+- 📄 [Final Project Report (PDF)](./Final-Project-YerlinReyesMontero-Spanish.pdf) For a detailed overview of the development stages, including diagnosis, requirements, testing plan, use cases, database design, prototypes, and more, please refer to the PDF starting from page 150.
 - 🎥 [Presentation Video](https://drive.google.com/file/d/1pQlVmuHeAR-2Nxw8ieDhBMNPOAMI0aPt/view?usp=sharing)
 
 ## Important Notice
